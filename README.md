@@ -1,4 +1,4 @@
-# DCGAN On Different Datasets
+# DCGAN On Celeb_a dataset
 ***Implement a GAN for Celeb_a dataset to generate celebrities faces***
 ## This task solved with this repo
 - CelebFaces Attributes Generator: I trained a DCGAN on [Celeb_A Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
